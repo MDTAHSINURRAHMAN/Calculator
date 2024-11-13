@@ -8,13 +8,12 @@ A simple calculator application built using Swift. This calculator performs basi
 - Clear button to reset calculations
 - Basic, user-friendly UI
 
-## Screenshots
+# Screenshots
 
-### Main Interface
-![Calculator UI 1](images/calc1.jpg)
-
-### Calculation in Progress
-![Calculator UI 2](images/calc2.jpg)
+<div style="display: flex; gap: 10px;">
+    <img src="images/calc1.jpg" alt="Calculator UI 1" height="300">
+    <img src="images/calc2.jpg" alt="Calculator UI 2" height="300">
+</div>
 
 ## How to Run
 
