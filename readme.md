@@ -19,4 +19,4 @@ A simple calculator application built using Swift. This calculator performs basi
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/calculator
+   git clone https://github.com/MDTAHSINURRAHMAN/calculator
